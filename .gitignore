@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data / outputs (don’t put these on GitHub)
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+*.xlsx
+*.xls
+
+# Optional: logs/temp
+*.log
+*.tmp
